@@ -1,0 +1,14 @@
+digraph keypad_g
+{
+  motherboard->keypad;
+  button->keypad;
+  A_1920_IXB->motherboard;
+  screw->motherboard;
+  transistor->A_1920_IXB;
+  radio->A_1920_IXB;
+  processor->A_1920_IXB;
+  bolt->A_1920_IXB;
+  transistor->radio;
+  cache->processor;
+}
+
