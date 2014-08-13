@@ -1,10 +1,8 @@
-/src/packages/*
-/src/*/bin/*
-/src/*/obj/*
-/src/*/Debug/
-/src/*/Release/*
-/src/*/*.user
-/src/*.user
-/src/*.suo
-/src/*/*.suo
+/src/**/packages/*
+/src/**/bin/*
+/src/**/obj/*
+/src/**/Debug/*
+/src/**/Release/*
+/src/**/*.user
+/src/**/*.suo
 /um-vm/*
