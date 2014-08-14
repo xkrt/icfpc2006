@@ -5,4 +5,6 @@
 /src/**/Release/*
 /src/**/*.user
 /src/**/*.suo
+/src/**/out/*
+/src/**/target/*
 /um-vm/*
